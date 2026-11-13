@@ -1,0 +1,4 @@
+# Written for Google Colab, which also provides google.colab (Drive mount). No ML library: NumPy only.
+numpy
+pandas
+matplotlib
